@@ -1,0 +1,6 @@
+export {Header} from './Header'
+export {Button} from './UI/Button'
+export {Categories} from './Categories'
+export {default as SortPopup} from './Sort'
+export {PizzaBlock, LoadingBlock} from './PizzaBlock'
+export {default as Loader} from './UI/Loader'
